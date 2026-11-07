@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.KimAV.Sprint2.Task0.V3.Lib/Tyuiu.KimAV.Sprint2.Task0.V3.Lib.csproj" Id="1b12d484-58ce-4d7e-9676-7f86c20c7552" />
+    <Project Path="Tyuiu.KimAV.Sprint2.Task0.V3.Lib/Tyuiu.KimAV.Sprint2.Task0.V3.Lib.csproj" Id="1b12d484-58ce-4d7e-9676-7f86c20c7552">
+      <BuildDependency Project="Tyuiu.KimAV.Sprint2.Task5.V9/Tyuiu.KimAV.Sprint2.Task5.V9.csproj" />
+    </Project>
     <Project Path="Tyuiu.KimAV.Sprint2.Task0.V3.Test/Tyuiu.KimAV.Sprint2.Task0.V3.Test.csproj" Id="73dd6748-f8ed-4aaa-99da-4a17ff5abb0d" />
     <Project Path="Tyuiu.KimAV.Sprint2.Task0.V3/Tyuiu.KimAV.Sprint2.Task0.V3.csproj" Id="255efcbb-fa77-47c9-960a-6b07d0fee53b" />
   </Folder>
@@ -23,5 +25,10 @@
     <Project Path="Tyuiu.KimAV.Sprint2.Task4.V15.Lib/Tyuiu.KimAV.Sprint2.Task4.V15.Lib.csproj" Id="56f481bc-5a44-462b-b525-cf3716848349" />
     <Project Path="Tyuiu.KimAV.Sprint2.Task4.V15.Test/Tyuiu.KimAV.Sprint2.Task4.V15.Test.csproj" Id="0a0e79ff-3497-41be-933a-038935beb4da" />
     <Project Path="Tyuiu.KimAV.Sprint2.Task4.V15/Tyuiu.KimAV.Sprint2.Task4.V15.csproj" Id="be9a4ff7-8d99-40c8-85c8-86c338d5cde0" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.KimAV.Sprint2.Task5.V9.Lib/Tyuiu.KimAV.Sprint2.Task5.V9.Lib.csproj" Id="5c2498f0-397d-49cf-907a-b37b4605f2ce" />
+    <Project Path="Tyuiu.KimAV.Sprint2.Task5.V9.Test/Tyuiu.KimAV.Sprint2.Task5.V9.Test.csproj" Id="37762eea-ab8e-4eb2-99e8-c1677167a1cc" />
+    <Project Path="Tyuiu.KimAV.Sprint2.Task5.V9/Tyuiu.KimAV.Sprint2.Task5.V9.csproj" Id="a738fe70-3bb8-4241-b6f9-d9738f495ca2" />
   </Folder>
 </Solution>
