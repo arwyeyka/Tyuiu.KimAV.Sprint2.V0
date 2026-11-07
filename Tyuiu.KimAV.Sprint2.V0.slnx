@@ -36,4 +36,9 @@
     <Project Path="Tyuiu.KimAV.Sprint2.Task6.V7.Test/Tyuiu.KimAV.Sprint2.Task6.V7.Test.csproj" Id="bbcef1b3-32b9-4fca-b7d4-c9b64f6cf9f9" />
     <Project Path="Tyuiu.KimAV.Sprint2.Task6.V7/Tyuiu.KimAV.Sprint2.Task6.V7.csproj" Id="aecd9b21-a659-4cad-a959-8a11ed4b181b" />
   </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.KimAV.Sprint2.Task7.V14.Lib/Tyuiu.KimAV.Sprint2.Task7.V14.Lib.csproj" Id="7c1f3f7e-2570-443d-a580-d9d574fec72f" />
+    <Project Path="Tyuiu.KimAV.Sprint2.Task7.V14.Test/Tyuiu.KimAV.Sprint2.Task7.V14.Test.csproj" Id="ce5ae49f-cf96-44f0-8b85-3ae655a323fd" />
+    <Project Path="Tyuiu.KimAV.Sprint2.Task7.V14/Tyuiu.KimAV.Sprint2.Task7.V14.csproj" Id="dea94c66-b6ce-4a9d-b82b-afa53476de71" />
+  </Folder>
 </Solution>
